@@ -1,0 +1,139 @@
+# DocuMind AI — Sample Company Knowledge Document
+
+## 1. Company Overview
+
+NovaTech Solutions is a fictional software development company established in 2018. Its headquarters are located in Bengaluru, India. The company develops web applications, mobile applications, cloud-based platforms, and artificial intelligence solutions.
+
+NovaTech Solutions has 240 employees across four departments: Engineering, Product Management, Customer Support, and Human Resources.
+
+The company's mission is to help businesses improve productivity through reliable software and practical technology solutions.
+
+## 2. Department Information
+
+The Engineering Department has 100 employees and is responsible for software development, testing, deployment, and maintenance.
+
+The Product Management Department has 25 employees. It gathers customer requirements, prioritizes product features, maintains the product roadmap, and coordinates with engineering teams.
+
+The Customer Support Department has 70 employees. It handles customer queries, technical issues, account problems, and product-related complaints.
+
+The Human Resources Department has 45 employees. It manages recruitment, onboarding, employee records, training, leave administration, and workplace policies.
+
+## 3. Working Hours and Leave Policy
+
+The standard working hours are 9:30 AM to 6:00 PM, Monday through Friday. Employees receive a one-hour lunch break.
+
+Employees receive 18 days of paid annual leave, 10 days of sick leave, and 12 public holidays per calendar year.
+
+Annual leave should normally be requested at least three working days in advance. Emergency leave should be reported to the employee's manager as soon as possible.
+
+Employees working remotely must attend scheduled team meetings and update their task status in the company's project management system.
+
+## 4. Software Development Process
+
+NovaTech Solutions follows the Agile Scrum methodology for most software development projects.
+
+Each development sprint lasts two weeks. Sprint planning takes place on Monday morning at the beginning of each sprint.
+
+Daily stand-up meetings are held at 10:00 AM and should not exceed 15 minutes.
+
+At the end of each sprint, the team conducts a sprint review to demonstrate completed features and a retrospective to discuss improvements.
+
+Every software feature must pass code review and appropriate testing before it can be deployed to production.
+
+Critical production bugs must be reported immediately to the engineering lead. High-priority bugs should be investigated within four working hours.
+
+## 5. Project Alpha: Customer Management Platform
+
+Project Alpha began on 1 January 2026. Its objective is to build a customer management platform for small and medium-sized businesses.
+
+The project budget is ₹48 lakh, and the planned delivery date is 30 November 2026.
+
+The project team consists of 12 software engineers, 2 QA engineers, 1 product manager, and 1 project manager.
+
+The platform includes customer profiles, lead tracking, sales reports, automated email notifications, and role-based access control.
+
+The first milestone was the completion of user authentication on 31 March 2026. The second milestone was the completion of customer profile management on 30 June 2026. The third milestone is sales reporting, scheduled for 30 September 2026.
+
+The final phase includes performance testing, security testing, user acceptance testing, and production deployment.
+
+## 6. Artificial Intelligence Initiative
+
+In April 2026, NovaTech Solutions launched an internal initiative to explore generative AI for customer support.
+
+The initiative aims to reduce the average first-response time from 20 minutes to 12 minutes.
+
+The team is evaluating a document question-answering assistant that uses Retrieval-Augmented Generation, also known as RAG.
+
+The proposed system will retrieve relevant information from approved company documents and provide that information to a language model before generating an answer.
+
+The prototype will use Python, Streamlit, a local language model, Sentence Transformers for embeddings, and ChromaDB as a vector database.
+
+The initial prototype must support PDF and TXT files. It should display source information so users can verify where an answer came from.
+
+The initiative has a prototype budget of ₹2 lakh and a target completion date of 15 December 2026.
+
+The system must not send confidential company documents to external AI services without written authorization.
+
+## 7. Customer Support Performance
+
+During August 2026, the Customer Support Department received 3,200 support tickets.
+
+Of these tickets, 2,400 were resolved within the company's target response time. The remaining 800 tickets exceeded the target response time.
+
+The department's target is to resolve at least 90% of support tickets within the target response time.
+
+The average customer satisfaction score for August was 4.2 out of 5.
+
+The three most common support issues were login problems, billing questions, and difficulties using reporting features.
+
+## 8. Security and Data Protection
+
+Employees must use strong passwords and enable multi-factor authentication on company accounts.
+
+Customer information must only be accessed by authorized employees who need it for their work.
+
+Company laptops must use approved security software and receive regular operating system updates.
+
+Employees must not share passwords through email or messaging applications.
+
+Suspected data breaches must be reported immediately to the Information Security Team.
+
+Documents containing confidential information must not be uploaded to unapproved third-party AI tools.
+
+## 9. Employee Training
+
+NovaTech Solutions provides an annual learning allowance of ₹15,000 per employee.
+
+Employees can use this allowance for approved technical courses, professional certifications, and relevant workshops.
+
+Managers should discuss learning goals with their team members during quarterly performance reviews.
+
+The company recommends training in Python, software testing, cloud computing, cybersecurity, project management, and artificial intelligence.
+
+## 10. Key Facts Summary
+
+Company name: NovaTech Solutions
+
+Established: 2018
+
+Headquarters: Bengaluru, India
+
+Total employees: 240
+
+Engineering employees: 100
+
+Project Alpha budget: ₹48 lakh
+
+Project Alpha planned delivery: 30 November 2026
+
+AI prototype budget: ₹2 lakh
+
+AI prototype target completion: 15 December 2026
+
+August 2026 support tickets: 3,200
+
+Tickets resolved within target: 2,400
+
+Customer satisfaction score: 4.2 out of 5
+
+Annual employee learning allowance: ₹15,000
