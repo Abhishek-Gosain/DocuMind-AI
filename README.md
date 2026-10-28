@@ -65,11 +65,11 @@ Install the following before running the application:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/documind-ai.git
+git clone https://github.com/USERNAME/documind-ai.git
 cd documind-ai
 ```
 
-Replace `YOUR-USERNAME` with your GitHub username. If you have already downloaded the project, open a terminal in the project folder instead.
+Replace `USERNAME` with your GitHub username. If you have already downloaded the project, open a terminal in the project folder instead.
 
 ### 2. Create a Virtual Environment
 
